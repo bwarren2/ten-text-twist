@@ -1,0 +1,196 @@
+{
+  "number": 41,
+  "date": "2026-03-30",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "W",
+        "S",
+        "K",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "awakes",
+          "definition": "To become conscious after having slept.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "N",
+        "A",
+        "H",
+        "R",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anchor",
+          "definition": "A tool used to moor a vessel to the bottom of a sea or river to resist movement.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "N",
+        "I",
+        "A",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "B",
+        "P",
+        "T",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "abrupt",
+          "definition": "Something which is abrupt; an abyss.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "A",
+        "R",
+        "H",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "arched",
+          "definition": "To form into an arch shape",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "A",
+        "D",
+        "W",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "awards",
+          "definition": "A judgment, sentence, or final decision. Specifically: The decision of arbitrators in a case submitted.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "M",
+        "I",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "V",
+        "A",
+        "N",
+        "E",
+        "U",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "avenue",
+          "definition": "A broad street, especially one bordered by trees.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "U",
+        "D",
+        "L",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "adults",
+          "definition": "A fully grown human or animal.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "T",
+        "S",
+        "A",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aortas",
+          "definition": "The great artery which carries the blood from the heart to all parts of the body except the lungs; the main trunk of the arterial system.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

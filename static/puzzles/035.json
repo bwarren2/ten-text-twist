@@ -1,0 +1,206 @@
+{
+  "number": 35,
+  "date": "2026-03-24",
+  "sets": [
+    {
+      "letters": [
+        "N",
+        "M",
+        "C",
+        "E",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "L",
+        "R",
+        "A",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "alders",
+          "definition": "Any of several trees or shrubs of the genus Alnus, belonging to the birch family.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "L",
+        "E",
+        "A",
+        "L",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "allude",
+          "definition": "To refer to something indirectly or by suggestion.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "R",
+        "R",
+        "E",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "artery",
+          "definition": "An efferent blood vessel from the heart, conveying blood away from the heart regardless of oxygenation status; see pulmonary artery.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "L",
+        "E",
+        "D",
+        "D",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "addled",
+          "definition": "(provincial) To earn, earn by labor; earn money or one's living.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "A",
+        "N",
+        "M",
+        "I",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "aiming",
+          "definition": "To point or direct a missile, or a weapon which propels as missile, towards an object or spot with the intent of hitting it",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "S",
+        "U",
+        "D",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "adieus",
+          "definition": "A farewell, a goodbye; especially a fond farewell, or a lasting or permanent farewell.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "I",
+        "N",
+        "A",
+        "E",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "A",
+        "S",
+        "A",
+        "H",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "aghast",
+          "definition": "Terrified; struck with amazement; showing signs of terror or horror.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "C",
+        "E",
+        "N",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

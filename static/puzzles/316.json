@@ -1,0 +1,216 @@
+{
+  "number": 316,
+  "date": "2026-12-30",
+  "sets": [
+    {
+      "letters": [
+        "I",
+        "C",
+        "E",
+        "A",
+        "M",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "V",
+        "R",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "M",
+        "C",
+        "I",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "A",
+        "V",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "M",
+        "E",
+        "N",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "A",
+        "R",
+        "A",
+        "A",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "V",
+        "A",
+        "R",
+        "T",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "V",
+        "A",
+        "T",
+        "A",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "R",
+        "V",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "C",
+        "M",
+        "I",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

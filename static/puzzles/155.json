@@ -1,0 +1,196 @@
+{
+  "number": 155,
+  "date": "2026-07-22",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "R",
+        "A",
+        "T",
+        "A",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "T",
+        "R",
+        "V",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "A",
+        "N",
+        "I",
+        "M",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "T",
+        "A",
+        "V",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "A",
+        "V",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "T",
+        "A",
+        "A",
+        "V",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "V",
+        "A",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "E",
+        "A",
+        "C",
+        "I",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "R",
+        "T",
+        "A",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "A",
+        "V",
+        "R",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "avatar",
+          "definition": "The incarnation of a deity, particularly Vishnu.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

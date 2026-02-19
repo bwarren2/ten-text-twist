@@ -1,0 +1,186 @@
+{
+  "number": 25,
+  "date": "2026-03-14",
+  "sets": [
+    {
+      "letters": [
+        "C",
+        "A",
+        "E",
+        "C",
+        "T",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "accent",
+          "definition": "A higher-pitched or stronger articulation of a particular syllable of a word or phrase in order to distinguish it from the others or to emphasize it.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "R",
+        "F",
+        "F",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "affirm",
+          "definition": "To agree, verify or concur; to answer positively.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "A",
+        "S",
+        "Y",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "assays",
+          "definition": "Trial, attempt.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "S",
+        "A",
+        "T",
+        "R",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "assort",
+          "definition": "To sort or arrange according to characteristic or class.",
+          "pos": "verb"
+        },
+        {
+          "word": "roasts",
+          "definition": "A cut of meat suited to roasting",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "O",
+        "M",
+        "L",
+        "P",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aplomb",
+          "definition": "Self-confidence; poise; composure.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "A",
+        "E",
+        "I",
+        "N",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "alpine",
+          "definition": "Any of several plants, native to mountain habitats, often grown in a rock garden",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "T",
+        "O",
+        "C",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "accost",
+          "definition": "Address; greeting.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "L",
+        "B",
+        "U",
+        "A",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "albums",
+          "definition": "A book specially designed to keep photographs, stamps, or autographs.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "N",
+        "I",
+        "S",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "aliens",
+          "definition": "Any life form of extraterrestrial or extradimensional origin.",
+          "pos": "noun"
+        },
+        {
+          "word": "saline",
+          "definition": "Water containing dissolved salt.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "I",
+        "R",
+        "T",
+        "G",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aright",
+          "definition": "Rightly, correctly; in the right way or form.",
+          "pos": "adverb"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "number": 19,
+  "date": "2026-03-08",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "R",
+        "O",
+        "R",
+        "S",
+        "W"
+      ],
+      "answers": [
+        {
+          "word": "arrows",
+          "definition": "A projectile consisting of a shaft, a point and a tail with stabilizing fins that is shot from a bow.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "O",
+        "I",
+        "G",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "amigos",
+          "definition": "Friend",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "B",
+        "S",
+        "U",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "abuses",
+          "definition": "Improper treatment or usage; application to a wrong or bad purpose; an unjust, corrupt or wrongful practice or custom.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "S",
+        "E",
+        "N",
+        "C",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "ascend",
+          "definition": "To move upward, to fly, to soar.",
+          "pos": "verb"
+        },
+        {
+          "word": "dances",
+          "definition": "A sequence of rhythmic steps or movements usually performed to music, for pleasure or as a form of social interaction.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "S",
+        "T",
+        "E",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "astute",
+          "definition": "Quickly and critically discerning.",
+          "pos": "adjective"
+        },
+        {
+          "word": "statue",
+          "definition": "A three-dimensional work of art, usually representing a person or animal, usually created by sculpting, carving, molding, or casting.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "S",
+        "L",
+        "T",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "altars",
+          "definition": "A table or similar flat-topped structure used for religious rites.",
+          "pos": "noun"
+        },
+        {
+          "word": "astral",
+          "definition": "Relating to or resembling the stars; starry.",
+          "pos": "adjective"
+        },
+        {
+          "word": "tarsal",
+          "definition": "Any of the seven bones of the tarsus.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "C",
+        "E",
+        "A",
+        "P",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "accept",
+          "definition": "To receive, especially with a consent, with favour, or with approval.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "C",
+        "U",
+        "B",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "abacus",
+          "definition": "A table or tray scattered with sand which was used for calculating or drawing.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "U",
+        "N",
+        "N",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "annual",
+          "definition": "An annual publication; a book, periodical, journal, report, comic book, yearbook, etc., which is published serially once a year, which may or may not be in addition to regular weekly or monthly publication.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "R",
+        "R",
+        "I",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "airier",
+          "definition": "Consisting of air.",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

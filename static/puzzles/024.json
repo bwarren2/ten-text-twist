@@ -1,0 +1,196 @@
+{
+  "number": 24,
+  "date": "2026-03-13",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "Y",
+        "G",
+        "L",
+        "E",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "argyle",
+          "definition": "A pattern of diamond-shaped areas on a solid background; used especially of knitwear",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "E",
+        "L",
+        "T",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "antler",
+          "definition": "A branching and bony structure on the head of deer, moose and elk, normally in pairs. They are grown and shed each year. (Compare with horn, which is generally not shed.)",
+          "pos": "noun"
+        },
+        {
+          "word": "learnt",
+          "definition": "To acquire, or attempt to acquire knowledge or an ability to do something.",
+          "pos": "verb"
+        },
+        {
+          "word": "rental",
+          "definition": "Something that is rented.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "I",
+        "A",
+        "E",
+        "V",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "advise",
+          "definition": "To give advice to; to offer an opinion to, as worthy or expedient to be followed.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "A",
+        "A",
+        "L",
+        "N",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "aslant",
+          "definition": "Slanting",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "E",
+        "R",
+        "A",
+        "A",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "abrade",
+          "definition": "To rub or wear off; erode.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "I",
+        "S",
+        "B",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "abseil",
+          "definition": "A descent in mountaineering using a rope looped at the top and a friction device.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "M",
+        "A",
+        "S",
+        "B",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "amebas",
+          "definition": "A member of the genus Amoeba of unicellular protozoa that moves by means of temporary projections called pseudopodia.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "A",
+        "N",
+        "T",
+        "D",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "atoned",
+          "definition": "To make reparation, compensation, amends or satisfaction for an offence, crime, mistake or deficiency.",
+          "pos": "verb"
+        },
+        {
+          "word": "donate",
+          "definition": "To make a donation; to give away something of value to support or contribute towards a cause or for the benefit of another.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "R",
+        "E",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "aerate",
+          "definition": "To supply with oxygen or air.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "S",
+        "O",
+        "S",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ascots",
+          "definition": "Ascot tie",
+          "pos": "noun"
+        },
+        {
+          "word": "coasts",
+          "definition": "The edge of the land where it meets an ocean, sea, gulf, bay, or large lake.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

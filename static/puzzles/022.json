@@ -1,0 +1,206 @@
+{
+  "number": 22,
+  "date": "2026-03-11",
+  "sets": [
+    {
+      "letters": [
+        "Y",
+        "L",
+        "A",
+        "L",
+        "S",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "alloys",
+          "definition": "A metal that is a combination of two or more elements, at least one of which is a metal.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "U",
+        "S",
+        "C",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "accuse",
+          "definition": "Accusation.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "A",
+        "W",
+        "N",
+        "N",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "awning",
+          "definition": "A rooflike cover, usually of canvas, extended over or before any place as a shelter from the sun, rain, or wind.",
+          "pos": "noun"
+        },
+        {
+          "word": "waning",
+          "definition": "To progressively lose its splendor, value, ardor, power, intensity etc.; to decline.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "S",
+        "T",
+        "L",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "alerts",
+          "definition": "An alarm.",
+          "pos": "noun"
+        },
+        {
+          "word": "alters",
+          "definition": "A table or similar flat-topped structure used for religious rites.",
+          "pos": "noun"
+        },
+        {
+          "word": "salter",
+          "definition": "One who makes, sells, or applies salt.",
+          "pos": "noun"
+        },
+        {
+          "word": "staler",
+          "definition": "(alcohol) Clear, free of dregs and lees; old and strong.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "L",
+        "Y",
+        "M",
+        "A",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "asylum",
+          "definition": "A place of safety.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "E",
+        "A",
+        "L",
+        "L",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "allure",
+          "definition": "The power to attract, entice; the quality causing attraction.",
+          "pos": "noun"
+        },
+        {
+          "word": "laurel",
+          "definition": "Laurus nobilis, an evergreen shrub having aromatic leaves of a lanceolate shape, with clusters of small, yellowish white flowers in their axils.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "R",
+        "G",
+        "N",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "argent",
+          "definition": "The metal silver.",
+          "pos": "noun"
+        },
+        {
+          "word": "garnet",
+          "definition": "A hard transparent mineral that is often used as gemstones and abrasives.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "S",
+        "E",
+        "X",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "apexes",
+          "definition": "Conical priest cap",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "A",
+        "R",
+        "O",
+        "K",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anorak",
+          "definition": "A heavy weatherproof jacket with an attached hood; a parka or windcheater.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "H",
+        "G",
+        "N",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "aching",
+          "definition": "To suffer pain; to be the source of, or be in, pain, especially continued dull pain; to be distressed.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

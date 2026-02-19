@@ -1,0 +1,191 @@
+{
+  "number": 16,
+  "date": "2026-03-05",
+  "sets": [
+    {
+      "letters": [
+        "U",
+        "O",
+        "A",
+        "R",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aurora",
+          "definition": "An atmospheric phenomenon created by charged particles from the sun striking the upper atmosphere, creating coloured lights in the sky. It is usually named australis or borealis based on whether it is in the Southern or Northern Hemisphere respectively.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "B",
+        "D",
+        "E",
+        "I",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "abides",
+          "definition": "To endure without yielding; to withstand; await defiantly; to encounter; to persevere.",
+          "pos": "verb"
+        },
+        {
+          "word": "biased",
+          "definition": "To place bias upon; to influence.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "I",
+        "N",
+        "A",
+        "D",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "aiding",
+          "definition": "To provide support to; to further the progress of; to help; to assist.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "N",
+        "I",
+        "A",
+        "S",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "anvils",
+          "definition": "A heavy iron block used in the blacksmithing trade as a surface upon which metal can be struck and shaped.",
+          "pos": "noun"
+        },
+        {
+          "word": "silvan",
+          "definition": "Pertaining to the forest, or woodlands.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "V",
+        "A",
+        "A",
+        "L",
+        "S",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "avails",
+          "definition": "Effect in achieving a goal or aim; purpose, use (now usually in negative constructions).",
+          "pos": "noun"
+        },
+        {
+          "word": "saliva",
+          "definition": "A clear, slightly alkaline liquid secreted into the mouth by the salivary glands and mucous glands, consisting of water, mucin, protein, and enzymes. It moistens the mouth, lubricates ingested food, and begins the breakdown of starches.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "M",
+        "T",
+        "U",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "autumn",
+          "definition": "Traditionally the third of the four seasons, when deciduous trees lose their leaves; typically regarded as being from September 24 to December 22 in parts of the Northern Hemisphere, and the months of March, April and May in the Southern Hemisphere.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "C",
+        "T",
+        "E",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "acetic",
+          "definition": "Of, pertaining to, or producing vinegar",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Z",
+        "S",
+        "M",
+        "E",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "amazes",
+          "definition": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "A",
+        "A",
+        "Z",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "azalea",
+          "definition": "A plant of the obsolete genus Azalea.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "R",
+        "E",
+        "P",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "appear",
+          "definition": "To come or be in sight; to be in view; to become visible.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

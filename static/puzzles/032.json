@@ -1,0 +1,196 @@
+{
+  "number": 32,
+  "date": "2026-03-21",
+  "sets": [
+    {
+      "letters": [
+        "N",
+        "A",
+        "L",
+        "A",
+        "S",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "annals",
+          "definition": "The record of a single event or item.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "N",
+        "C",
+        "E",
+        "I",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "L",
+        "F",
+        "F",
+        "B",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "baffle",
+          "definition": "A device used to dampen the effects of such things as sound, light, or fluid. Specifically, a baffle is a surface which is placed inside an open area to inhibit direct motion from one part to another, without preventing motion altogether.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "O",
+        "E",
+        "N",
+        "T",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "atones",
+          "definition": "To make reparation, compensation, amends or satisfaction for an offence, crime, mistake or deficiency.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "N",
+        "O",
+        "A",
+        "D",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "adorns",
+          "definition": "To make more beautiful and attractive; to decorate.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "J",
+        "D",
+        "I",
+        "A",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "adjoin",
+          "definition": "To be in contact or connection with.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "M",
+        "F",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aflame",
+          "definition": "In flames, on fire, flaming, with flames coming from it",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "S",
+        "R",
+        "H",
+        "F"
+      ],
+      "answers": [
+        {
+          "word": "afresh",
+          "definition": "Anew; again; once more",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "W",
+        "E",
+        "H",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aweigh",
+          "definition": "Just drawn out of the ground, and hanging perpendicularly; atrip; said of the anchor.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "E",
+        "A",
+        "N",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "number": 30,
+  "date": "2026-03-19",
+  "sets": [
+    {
+      "letters": [
+        "S",
+        "Y",
+        "L",
+        "L",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "allays",
+          "definition": "To make quiet or put at rest; to pacify or appease; to quell; to calm.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "T",
+        "S",
+        "P",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "aptest",
+          "definition": "Suitable; appropriate; fit or fitted; suited.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "I",
+        "N",
+        "C",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "P",
+        "M",
+        "E",
+        "R",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ampere",
+          "definition": "A unit of electrical current, the standard base unit in the International System of Units; colloquially amp. Abbreviation: amp, Symbol: A",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "L",
+        "A",
+        "I",
+        "F",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "afield",
+          "definition": "Away (from the home or starting point, physical or conceptual); usually preceded by far (or farther, further).",
+          "pos": "adverb"
+        },
+        {
+          "word": "failed",
+          "definition": "To be unsuccessful.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "E",
+        "C",
+        "V",
+        "A",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "advice",
+          "definition": "An opinion offered in an effort to be helpful.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "M",
+        "N",
+        "E",
+        "C",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "T",
+        "N",
+        "V",
+        "A",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "advent",
+          "definition": "Arrival; onset; a time when something first comes or appears",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "N",
+        "A",
+        "O",
+        "A",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "analog",
+          "definition": "Something that bears an analogy to something else",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "E",
+        "A",
+        "C",
+        "M",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

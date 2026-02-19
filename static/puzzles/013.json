@@ -1,0 +1,196 @@
+{
+  "number": 13,
+  "date": "2026-03-02",
+  "sets": [
+    {
+      "letters": [
+        "O",
+        "A",
+        "N",
+        "W",
+        "H",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "anyhow",
+          "definition": "(manner) In any way or manner whatever.",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "I",
+        "K",
+        "A",
+        "B",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "akimbo",
+          "definition": "With a crook or bend; with the hand on the hip and elbow turned outward.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "Y",
+        "N",
+        "A",
+        "C",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "agency",
+          "definition": "The capacity, condition, or state of acting or of exerting power.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "S",
+        "T",
+        "I",
+        "D",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "admits",
+          "definition": "To allow to enter; to grant entrance (to), whether into a place, into the mind, or into consideration",
+          "pos": "verb"
+        },
+        {
+          "word": "amidst",
+          "definition": "In the midst or middle of; surrounded or encompassed by; among.",
+          "pos": "preposition"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "E",
+        "X",
+        "E",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "annexe",
+          "definition": "An addition, an extension.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "T",
+        "A",
+        "E",
+        "S",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "aspect",
+          "definition": "Any specific feature, part, or element of something.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "R",
+        "S",
+        "A",
+        "C",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "acorns",
+          "definition": "The fruit of the oak, being an oval nut growing in a woody cup or cupule.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "H",
+        "N",
+        "E",
+        "T",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "anthem",
+          "definition": "Antiphon.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "N",
+        "E",
+        "C",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ascent",
+          "definition": "The act of ascending; a motion upwards.",
+          "pos": "noun"
+        },
+        {
+          "word": "enacts",
+          "definition": "To make (a bill) into law",
+          "pos": "verb"
+        },
+        {
+          "word": "secant",
+          "definition": "A straight line that intersects a curve at two or more points.",
+          "pos": "noun"
+        },
+        {
+          "word": "stance",
+          "definition": "The manner, pose, or posture in which one stands.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "R",
+        "K",
+        "C",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "backer",
+          "definition": "One who, or that which, backs; especially one who backs an entrant in a contest, or who supports an enterprise by funding it.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

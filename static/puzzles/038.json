@@ -1,0 +1,206 @@
+{
+  "number": 38,
+  "date": "2026-03-27",
+  "sets": [
+    {
+      "letters": [
+        "T",
+        "A",
+        "W",
+        "S",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "awaits",
+          "definition": "A waiting for; ambush.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "N",
+        "I",
+        "A",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "I",
+        "A",
+        "A",
+        "G",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "airbag",
+          "definition": "A protective system in automobiles in which when a crash occurs, a bag containing nitrogen, formed by the explosive decomposition of sodium azide, quickly inflates in front of the driver or passenger, preventing injury to the head. Side air bags, including the back seat passengers, also prevent injury.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "A",
+        "O",
+        "S",
+        "N",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "annoys",
+          "definition": "A feeling of discomfort or vexation caused by what one dislikes.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "D",
+        "I",
+        "A",
+        "A",
+        "F"
+      ],
+      "answers": [
+        {
+          "word": "afraid",
+          "definition": "(usually used predicatively, not attributively, be afraid) Impressed with fear or apprehension; in fear.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "N",
+        "M",
+        "C",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "N",
+        "E",
+        "K",
+        "W"
+      ],
+      "answers": [
+        {
+          "word": "awaken",
+          "definition": "To become conscious after having slept.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "B",
+        "L",
+        "L",
+        "A",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "ballad",
+          "definition": "A kind of narrative poem, adapted for recitation or singing; especially, a sentimental or romantic poem in short stanzas.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "M",
+        "C",
+        "I",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "M",
+        "S",
+        "A",
+        "H",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "asthma",
+          "definition": "A long-term respiratory condition, in which the airways may unexpectedly and suddenly narrow, often in response to an allergen, cold air, exercise, or emotional stress. Symptoms include wheezing, shortness of breath, chest tightness, and coughing.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

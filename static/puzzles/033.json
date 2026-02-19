@@ -1,0 +1,206 @@
+{
+  "number": 33,
+  "date": "2026-03-22",
+  "sets": [
+    {
+      "letters": [
+        "N",
+        "E",
+        "A",
+        "R",
+        "T",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "anther",
+          "definition": "The pollen-bearing part of the stamen of a flower.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "M",
+        "O",
+        "A",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "amoeba",
+          "definition": "A member of the genus Amoeba of unicellular protozoa that moves by means of temporary projections called pseudopodia.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "C",
+        "N",
+        "E",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "U",
+        "D",
+        "B",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "absurd",
+          "definition": "An absurdity.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "C",
+        "I",
+        "N",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "S",
+        "A",
+        "H",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ashcan",
+          "definition": "A container for ashes, used in times past for accumulating ashes generated from wood and coal fires, for eventual disposal elsewhere. A dustbin.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "R",
+        "Y",
+        "A",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "arrays",
+          "definition": "Clothing and ornamentation.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "U",
+        "I",
+        "D",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "audits",
+          "definition": "A judicial examination.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "N",
+        "C",
+        "M",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "A",
+        "I",
+        "N",
+        "M",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "amnion",
+          "definition": "The innermost membrane of the fetal membranes of reptiles, birds, and mammals; the sac in which the embryo is suspended.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

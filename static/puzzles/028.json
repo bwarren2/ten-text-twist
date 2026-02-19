@@ -1,0 +1,186 @@
+{
+  "number": 28,
+  "date": "2026-03-17",
+  "sets": [
+    {
+      "letters": [
+        "D",
+        "M",
+        "E",
+        "A",
+        "U",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "amused",
+          "definition": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "C",
+        "T",
+        "U",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "curate",
+          "definition": "An assistant rector or vicar.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "D",
+        "R",
+        "D",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "badder",
+          "definition": "Fantastic.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "O",
+        "G",
+        "P",
+        "E",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "apogee",
+          "definition": "The point, in an orbit about the Earth, that is furthest from the Earth: the apoapsis of an Earth orbiter.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "A",
+        "A",
+        "R",
+        "T",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "astray",
+          "definition": "In a wrong or unknown and wrongly-motivated direction.",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "B",
+        "S",
+        "E",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "abases",
+          "definition": "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "R",
+        "O",
+        "Y",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "armory",
+          "definition": "Heraldry",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "A",
+        "I",
+        "C",
+        "N",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "action",
+          "definition": "Something done so as to accomplish a purpose.",
+          "pos": "noun"
+        },
+        {
+          "word": "cation",
+          "definition": "A positively charged ion, i.e. one that would be attracted to the cathode in electrolysis.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "L",
+        "A",
+        "A",
+        "C",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "alpaca",
+          "definition": "A sheep-like animal of the Andes, Vicugna pacos, in the camel family, closely related to the llama, guanaco, and vicuña.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "N",
+        "A",
+        "A",
+        "U",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "alumna",
+          "definition": "A female pupil or student (especially of a university or college).",
+          "pos": "noun"
+        },
+        {
+          "word": "manual",
+          "definition": "A handbook.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

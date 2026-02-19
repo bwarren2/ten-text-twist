@@ -1,0 +1,186 @@
+{
+  "number": 5,
+  "date": "2026-02-22",
+  "sets": [
+    {
+      "letters": [
+        "S",
+        "A",
+        "S",
+        "E",
+        "S",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "assess",
+          "definition": "To determine, estimate or judge the value of; to evaluate",
+          "pos": "verb"
+        },
+        {
+          "word": "sasses",
+          "definition": "To talk, to talk back.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "O",
+        "N",
+        "T",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anoint",
+          "definition": "To smear or rub over with oil or an unctuous substance; also, to spread over, as oil.",
+          "pos": "verb"
+        },
+        {
+          "word": "nation",
+          "definition": "A historically constituted, stable community of people, formed on the basis of a common language, territory, economic life, ethnicity and/or psychological make-up manifested in a common culture.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "W",
+        "A",
+        "A",
+        "I",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "airway",
+          "definition": "The trachea.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "R",
+        "O",
+        "A",
+        "B",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "arbors",
+          "definition": "A shady sitting place or pergola usually in a park or garden, surrounded by climbing shrubs, vines or other vegetation.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "S",
+        "B",
+        "I",
+        "A",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "babies",
+          "definition": "A very young human, particularly from birth to a couple of years old or until walking is fully mastered.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "O",
+        "L",
+        "A",
+        "S",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "alohas",
+          "definition": "Good wishes, love.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "I",
+        "T",
+        "O",
+        "A",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "atomic",
+          "definition": "An atomic operation.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "A",
+        "F",
+        "F",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "affray",
+          "definition": "The act of suddenly disturbing anyone; an assault or attack.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "P",
+        "O",
+        "S",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "appose",
+          "definition": "To interrogate; to question.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "N",
+        "I",
+        "I",
+        "G",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "airing",
+          "definition": "To bring (something) into contact with the air, so as to freshen or dry it.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

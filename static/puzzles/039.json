@@ -1,0 +1,216 @@
+{
+  "number": 39,
+  "date": "2026-03-28",
+  "sets": [
+    {
+      "letters": [
+        "R",
+        "C",
+        "A",
+        "D",
+        "O",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "accord",
+          "definition": "Agreement or concurrence of opinion, will, or action.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "R",
+        "I",
+        "V",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "aviary",
+          "definition": "A house, enclosure, large cage, or other place for keeping birds confined; a birdhouse.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "N",
+        "M",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "B",
+        "R",
+        "B",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "absorb",
+          "definition": "To include so that it no longer has separate existence; to overwhelm; to cause to disappear as if by swallowing up; to incorporate; to assimilate; to take in and use up.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "N",
+        "M",
+        "C",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "A",
+        "A",
+        "Z",
+        "B",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "ablaze",
+          "definition": "Burning fiercely; in a blaze; on fire.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "M",
+        "A",
+        "E",
+        "C",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "D",
+        "P",
+        "I",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "aphids",
+          "definition": "Sapsucking pest insect of the superfamily Aphidoidea; an aphidian.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "M",
+        "I",
+        "A",
+        "N",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "A",
+        "R",
+        "N",
+        "A",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "angora",
+          "definition": "An angora cat.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

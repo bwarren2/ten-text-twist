@@ -1,0 +1,201 @@
+{
+  "number": 27,
+  "date": "2026-03-16",
+  "sets": [
+    {
+      "letters": [
+        "S",
+        "N",
+        "A",
+        "E",
+        "T",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "assent",
+          "definition": "Agreement; act of agreeing",
+          "pos": "noun"
+        },
+        {
+          "word": "sanest",
+          "definition": "Being in a healthy condition; not deranged; thinking rationally.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "G",
+        "A",
+        "D",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "adages",
+          "definition": "An old saying which has obtained credit by long use",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "A",
+        "U",
+        "M",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "amuses",
+          "definition": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+          "pos": "verb"
+        },
+        {
+          "word": "assume",
+          "definition": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "Y",
+        "A",
+        "A",
+        "P",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "apiary",
+          "definition": "A place where bees and their hives are kept.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "B",
+        "S",
+        "B",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "abbess",
+          "definition": "A female superior or governess of a nunnery, or convent of nuns, having the same authority over the nuns which the abbots have over the monks.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "O",
+        "N",
+        "D",
+        "M",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "almond",
+          "definition": "A type of tree nut.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "O",
+        "A",
+        "B",
+        "B",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "baboon",
+          "definition": "An Old World monkey of the genus Papio, having dog-like muzzles and large canine teeth, cheek pouches, a short tail, and naked callosities on the buttocks.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "L",
+        "L",
+        "I",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "alkali",
+          "definition": "One of a class of caustic bases, such as soda, soda ash, caustic soda, potash, ammonia, and lithia, whose distinguishing peculiarities are solubility in alcohol and water, uniting with oils and fats to form soap, neutralizing and forming salts with acids, turning to brown several vegetable yellows, and changing reddened litmus to blue.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "G",
+        "A",
+        "S",
+        "O",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "argots",
+          "definition": "A secret language or conventional slang peculiar to thieves, tramps and vagabonds.",
+          "pos": "noun"
+        },
+        {
+          "word": "gators",
+          "definition": "Alligator.",
+          "pos": "noun"
+        },
+        {
+          "word": "groats",
+          "definition": "(chiefly in the plural) Hulled grain.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "A",
+        "D",
+        "S",
+        "E",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "adepts",
+          "definition": "One fully skilled or well versed in anything; a proficient",
+          "pos": "noun"
+        },
+        {
+          "word": "pasted",
+          "definition": "To stick with paste; to cause to adhere by or as if by paste.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

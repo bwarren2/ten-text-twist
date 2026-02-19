@@ -1,0 +1,206 @@
+{
+  "number": 3,
+  "date": "2026-02-20",
+  "sets": [
+    {
+      "letters": [
+        "R",
+        "C",
+        "H",
+        "I",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "achier",
+          "definition": "Suffering from aches, sore.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "D",
+        "A",
+        "T",
+        "T",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "attend",
+          "definition": "To listen to (something or someone); to pay attention to; regard; heed.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "O",
+        "A",
+        "R",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "adores",
+          "definition": "To worship.",
+          "pos": "verb"
+        },
+        {
+          "word": "soared",
+          "definition": "To fly high with little effort, like a bird.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "C",
+        "R",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "arcane",
+          "definition": "Understood by only a few.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "E",
+        "L",
+        "N",
+        "K",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anklet",
+          "definition": "A piece of jewelry/jewellery, resembling a bracelet but worn around the ankle.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "N",
+        "N",
+        "A",
+        "I",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "anions",
+          "definition": "A negatively charged ion.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "D",
+        "U",
+        "S",
+        "B",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "abused",
+          "definition": "To put to a wrong use; to misapply; to use improperly; to misuse; to use for a wrong purpose or end; to pervert",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "N",
+        "E",
+        "D",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ardent",
+          "definition": "Full of ardor; fervent, passionate.",
+          "pos": "adjective"
+        },
+        {
+          "word": "ranted",
+          "definition": "To speak or shout at length in uncontrollable anger.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "M",
+        "I",
+        "E",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ageism",
+          "definition": "The treating of a person or people, especially youth or seniors, differently from others based on assumptions or stereotypes relating to their age.",
+          "pos": "noun"
+        },
+        {
+          "word": "images",
+          "definition": "An optical or other representation of a real object; a graphic; a picture.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "C",
+        "S",
+        "O",
+        "R",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "actors",
+          "definition": "A person who performs, plays a part in a theatrical play or film.",
+          "pos": "noun"
+        },
+        {
+          "word": "castor",
+          "definition": "A hat made from the fur of the beaver.",
+          "pos": "noun"
+        },
+        {
+          "word": "costar",
+          "definition": "A person who shares star billing",
+          "pos": "noun"
+        },
+        {
+          "word": "scrota",
+          "definition": "The bag of skin and muscle that contains the testicles in mammals.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

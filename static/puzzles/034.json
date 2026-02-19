@@ -1,0 +1,216 @@
+{
+  "number": 34,
+  "date": "2026-03-23",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "M",
+        "D",
+        "S",
+        "N",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "amends",
+          "definition": "(usually in the plural) An act of righting a wrong; compensation.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "M",
+        "A",
+        "N",
+        "C",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "S",
+        "A",
+        "B",
+        "B",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "babels",
+          "definition": "A confused mixture of sounds and voices, especially in different languages.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "E",
+        "A",
+        "M",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "amebae",
+          "definition": "A member of the genus Amoeba of unicellular protozoa that moves by means of temporary projections called pseudopodia.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "I",
+        "N",
+        "C",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "N",
+        "L",
+        "I",
+        "G",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "baling",
+          "definition": "To remove water from a boat with buckets etc.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "M",
+        "C",
+        "N",
+        "I",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "A",
+        "I",
+        "L",
+        "B",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "albino",
+          "definition": "A person or animal congenitally lacking melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); one born with albinism.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "C",
+        "N",
+        "M",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "E",
+        "R",
+        "A",
+        "C",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "archer",
+          "definition": "One who shoots an arrow from a bow or a bolt from a crossbow.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

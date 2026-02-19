@@ -1,0 +1,211 @@
+{
+  "number": 11,
+  "date": "2026-02-28",
+  "sets": [
+    {
+      "letters": [
+        "L",
+        "L",
+        "A",
+        "E",
+        "E",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "allele",
+          "definition": "One of a number of alternative forms of the same gene occupying a given position, or locus, on a chromosome.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "R",
+        "N",
+        "A",
+        "I",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "arcing",
+          "definition": "To move following a curved path.",
+          "pos": "verb"
+        },
+        {
+          "word": "caring",
+          "definition": "To be concerned (about), to have an interest (in); to feel concern (about).",
+          "pos": "verb"
+        },
+        {
+          "word": "racing",
+          "definition": "To take part in a race (in the sense of a contest).",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "V",
+        "T",
+        "D",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "advert",
+          "definition": "An advertisement, an ad.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "T",
+        "S",
+        "A",
+        "R",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "assert",
+          "definition": "An assertion; a section of source code which tests whether an expected condition is true.",
+          "pos": "noun"
+        },
+        {
+          "word": "asters",
+          "definition": "Any of several plants of the genus Aster; one of its flowers.",
+          "pos": "noun"
+        },
+        {
+          "word": "stares",
+          "definition": "A persistent gaze.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "H",
+        "A",
+        "C",
+        "E",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "arches",
+          "definition": "An inverted U shape.",
+          "pos": "noun"
+        },
+        {
+          "word": "chaser",
+          "definition": "A person or thing (ship, plane, car, etc.) that chases.",
+          "pos": "noun"
+        },
+        {
+          "word": "search",
+          "definition": "An attempt to find something.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "G",
+        "L",
+        "A",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "agleam",
+          "definition": "Glowing with subdued light.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "U",
+        "G",
+        "U",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "augurs",
+          "definition": "A diviner who foretells events by the behaviour of birds or other animals, or by signs derived from celestial phenomena, or unusual occurrences.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "E",
+        "R",
+        "A",
+        "B",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "balder",
+          "definition": "Having no hair, fur or feathers.",
+          "pos": "adjective"
+        },
+        {
+          "word": "blared",
+          "definition": "To make a loud sound.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "R",
+        "T",
+        "I",
+        "O",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "adroit",
+          "definition": "Deft, dexterous, or skillful.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "A",
+        "L",
+        "A",
+        "O",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "atonal",
+          "definition": "Lacking a tonal center or key.",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

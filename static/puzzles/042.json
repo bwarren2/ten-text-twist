@@ -1,0 +1,216 @@
+{
+  "number": 42,
+  "date": "2026-03-31",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "A",
+        "T",
+        "G",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "agates",
+          "definition": "A semi-pellucid, uncrystallized variety of quartz, presenting various tints in the same specimen, with colors delicately arranged in stripes or bands, or blended in clouds.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "D",
+        "I",
+        "G",
+        "D",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "adding",
+          "definition": "To join or unite (e.g. one thing to another, or as several particulars) so as to increase the number, augment the quantity or enlarge the magnitude, or so as to form into one aggregate.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "T",
+        "U",
+        "G",
+        "A",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "august",
+          "definition": "Awe-inspiring, majestic, noble, venerable.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "K",
+        "E",
+        "L",
+        "S",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ankles",
+          "definition": "The skeletal joint which connects the foot with the leg; the uppermost portion of the foot and lowermost portion of the leg, which contain this skeletal joint.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "M",
+        "A",
+        "I",
+        "C",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "M",
+        "I",
+        "A",
+        "C",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "M",
+        "I",
+        "E",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "N",
+        "A",
+        "C",
+        "I",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "I",
+        "G",
+        "A",
+        "G",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "baggie",
+          "definition": "A small bag, especially a small, clear, plastic bag.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "A",
+        "B",
+        "K",
+        "G",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "baking",
+          "definition": "(with person as subject) To cook (something) in an oven.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

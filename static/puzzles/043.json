@@ -1,0 +1,196 @@
+{
+  "number": 43,
+  "date": "2026-04-01",
+  "sets": [
+    {
+      "letters": [
+        "M",
+        "D",
+        "I",
+        "S",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "amides",
+          "definition": "Any derivative of an oxoacid in which the hydroxyl group has been replaced with an amino or substituted amino group; especially such derivatives of a carboxylic acid, the carboxamides or acid amides",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "A",
+        "E",
+        "C",
+        "D",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "accede",
+          "definition": "To approach; to arrive, to come forward.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "E",
+        "I",
+        "M",
+        "C",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "R",
+        "C",
+        "A",
+        "C",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "arctic",
+          "definition": "A warm waterproof overshoe.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "U",
+        "H",
+        "O",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "author",
+          "definition": "The originator or creator of a work, especially of a literary composition.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "I",
+        "N",
+        "A",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "angina",
+          "definition": "An inflammatory infection of the throat, particularly quinsy.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "N",
+        "I",
+        "M",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "alumni",
+          "definition": "An individual alumnus or alumna.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "S",
+        "O",
+        "R",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "armors",
+          "definition": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "M",
+        "N",
+        "A",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "A",
+        "E",
+        "D",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "arcade",
+          "definition": "A row of arches.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

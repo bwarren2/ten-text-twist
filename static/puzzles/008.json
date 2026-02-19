@@ -1,0 +1,201 @@
+{
+  "number": 8,
+  "date": "2026-02-25",
+  "sets": [
+    {
+      "letters": [
+        "I",
+        "R",
+        "A",
+        "T",
+        "E",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "artier",
+          "definition": "Pretending to artistic worth; high-flown.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "S",
+        "I",
+        "T",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "attics",
+          "definition": "The space, often unfinished and with sloped walls, directly below the roof in the uppermost part of a house or other building, generally used for storage or habitation.",
+          "pos": "noun"
+        },
+        {
+          "word": "static",
+          "definition": "Interference on a broadcast signal caused by atmospheric disturbances; heard as crackles on radio, or seen as random specks on television.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "E",
+        "I",
+        "P",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "apiece",
+          "definition": "Each by itself; for or to each one",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "R",
+        "A",
+        "S",
+        "K",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "bakers",
+          "definition": "A person who bakes and sells bread, cakes and similar items.",
+          "pos": "noun"
+        },
+        {
+          "word": "brakes",
+          "definition": "A fern; bracken.",
+          "pos": "noun"
+        },
+        {
+          "word": "breaks",
+          "definition": "An instance of breaking something into two or more pieces.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "E",
+        "N",
+        "N",
+        "A",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "anyone",
+          "definition": "Any person; anybody.",
+          "pos": "pronoun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "S",
+        "E",
+        "I",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "asides",
+          "definition": "An incidental remark made quietly so as to be heard by the person to whom it is said and not by any others in the vicinity.",
+          "pos": "noun"
+        },
+        {
+          "word": "daises",
+          "definition": "A raised platform in a room for a high table, a seat of honour, a throne, or other dignified occupancy; a similar platform supporting a lectern, pulpit, etc., which may be used to speak from.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "B",
+        "D",
+        "A",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "abased",
+          "definition": "To lower, as in condition in life, office, rank, etc., so as to cause pain or hurt feelings; to degrade, to depress, to humble, to humiliate.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "A",
+        "R",
+        "E",
+        "D",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "adhere",
+          "definition": "To stick fast or cleave, as a glutinous substance does; to become joined or united.",
+          "pos": "verb"
+        },
+        {
+          "word": "header",
+          "definition": "The upper portion of a page (or other) layout.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Y",
+        "A",
+        "B",
+        "B",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "abbeys",
+          "definition": "The office or dominion of an abbot or abbess.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "S",
+        "T",
+        "E",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "assets",
+          "definition": "Something or someone of any value; any portion of one's property or effects so considered.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

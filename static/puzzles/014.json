@@ -1,0 +1,191 @@
+{
+  "number": 14,
+  "date": "2026-03-03",
+  "sets": [
+    {
+      "letters": [
+        "C",
+        "A",
+        "L",
+        "T",
+        "A",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "actual",
+          "definition": "An actual, real one; notably:",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "P",
+        "A",
+        "H",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "alphas",
+          "definition": "The name of the first letter of the Greek alphabet (Α,  α), followed by beta. In the Latin alphabet it is the predecessor to A.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "A",
+        "T",
+        "C",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "attach",
+          "definition": "To fasten, to join to (literally and figuratively).",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "R",
+        "A",
+        "N",
+        "E",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "airmen",
+          "definition": "A pilot of an aircraft.",
+          "pos": "noun"
+        },
+        {
+          "word": "marine",
+          "definition": "A soldier, normally a member of a marine corps, trained to serve on board or from a ship",
+          "pos": "noun"
+        },
+        {
+          "word": "remain",
+          "definition": "(chiefly in the plural) That which is left; relic; remainder.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "X",
+        "O",
+        "A",
+        "M",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "axioms",
+          "definition": "A seemingly self-evident or necessary truth which is based on assumption; a principle or proposition which cannot actually be proved or disproved.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "L",
+        "R",
+        "A",
+        "E",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "balers",
+          "definition": "A machine for creating bales, e.g., of hay or cotton.",
+          "pos": "noun"
+        },
+        {
+          "word": "blares",
+          "definition": "A loud sound.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "O",
+        "V",
+        "A",
+        "D",
+        "W"
+      ],
+      "answers": [
+        {
+          "word": "avowed",
+          "definition": "To declare openly and boldly, as something believed to be right; to own, acknowledge or confess frankly.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "N",
+        "D",
+        "S",
+        "O",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anodes",
+          "definition": "An electrode, of a cell or other electrically polarized device, through which a positive current of electricity flows inwards (and thus, electrons flow outwards). It can have either a negative or a positive voltage.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "P",
+        "P",
+        "E",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "apples",
+          "definition": "A common, round fruit produced by the tree Malus domestica, cultivated in temperate climates.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "L",
+        "S",
+        "S",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "assail",
+          "definition": "To attack with harsh words or violent force (also figuratively).",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

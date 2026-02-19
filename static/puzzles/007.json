@@ -1,0 +1,201 @@
+{
+  "number": 7,
+  "date": "2026-02-24",
+  "sets": [
+    {
+      "letters": [
+        "L",
+        "O",
+        "E",
+        "C",
+        "A",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "alcove",
+          "definition": "A small recessed area set off from a larger room.",
+          "pos": "noun"
+        },
+        {
+          "word": "coeval",
+          "definition": "Something of the same era.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "C",
+        "S",
+        "E",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "apices",
+          "definition": "Conical priest cap",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "P",
+        "U",
+        "A",
+        "S",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "ampuls",
+          "definition": "A small hermetically sealed vial, often used to contain a sterile solution suitable for injection.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "X",
+        "U",
+        "A",
+        "I",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "adieux",
+          "definition": "A farewell, a goodbye; especially a fond farewell, or a lasting or permanent farewell.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "G",
+        "A",
+        "E",
+        "V",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "avenge",
+          "definition": "An act of vengeance; a revenge.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "M",
+        "R",
+        "O",
+        "R",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "armour",
+          "definition": "A protective layer over a body, vehicle, or other object intended to deflect or diffuse damaging forces.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "S",
+        "T",
+        "R",
+        "A",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "aborts",
+          "definition": "A miscarriage; an untimely birth; an abortion.",
+          "pos": "noun"
+        },
+        {
+          "word": "tabors",
+          "definition": "A small drum.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "I",
+        "T",
+        "E",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "ageist",
+          "definition": "A person who behaves in an ageist manner.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "T",
+        "R",
+        "A",
+        "I",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "artist",
+          "definition": "A person who creates art.",
+          "pos": "noun"
+        },
+        {
+          "word": "strait",
+          "definition": "A narrow channel of water connecting two larger bodies of water.",
+          "pos": "noun"
+        },
+        {
+          "word": "traits",
+          "definition": "An identifying characteristic, habit or trend.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "I",
+        "B",
+        "A",
+        "E",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "abided",
+          "definition": "To endure without yielding; to withstand; await defiantly; to encounter; to persevere.",
+          "pos": "verb"
+        },
+        {
+          "word": "baddie",
+          "definition": "A person of bad character in a work of fiction.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

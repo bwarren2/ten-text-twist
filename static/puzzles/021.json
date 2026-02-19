@@ -1,0 +1,186 @@
+{
+  "number": 21,
+  "date": "2026-03-10",
+  "sets": [
+    {
+      "letters": [
+        "E",
+        "B",
+        "A",
+        "S",
+        "D",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "abodes",
+          "definition": "Act of waiting; delay.",
+          "pos": "noun"
+        },
+        {
+          "word": "adobes",
+          "definition": "An unburnt brick dried in the sun.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "A",
+        "D",
+        "D",
+        "T",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "addict",
+          "definition": "A person who is addicted, especially to a harmful drug",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "D",
+        "U",
+        "A",
+        "N",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "abound",
+          "definition": "To be full to overflowing.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "B",
+        "R",
+        "V",
+        "D",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "adverb",
+          "definition": "(grammar) A word that modifies a verb, adjective, other adverbs, or various other types of words, phrases, or clauses.",
+          "pos": "noun"
+        },
+        {
+          "word": "braved",
+          "definition": "To encounter with courage and fortitude, to defy, to provoke.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "S",
+        "U",
+        "C",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "acutes",
+          "definition": "A person who has the acute form of a disorder, such as schizophrenia.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "W",
+        "O",
+        "A",
+        "N",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "awoken",
+          "definition": "To become conscious after having slept.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "S",
+        "W",
+        "N",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "answer",
+          "definition": "A response or reply; something said or done in reaction to a statement or question.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "N",
+        "E",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "arenas",
+          "definition": "An enclosed area, often outdoor, for the presentation of sporting events (sports arena) or other spectacular events; earthen area, often oval, specifically for rodeos (North America) or circular area for bullfights (especially Hispanic America).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "Z",
+        "M",
+        "A",
+        "N",
+        "A",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "amazon",
+          "definition": "A tall, strong, athletic woman.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "L",
+        "N",
+        "E",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "angler",
+          "definition": "A person who fishes with a hook and line.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

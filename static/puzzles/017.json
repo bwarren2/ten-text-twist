@@ -1,0 +1,201 @@
+{
+  "number": 17,
+  "date": "2026-03-06",
+  "sets": [
+    {
+      "letters": [
+        "R",
+        "D",
+        "A",
+        "O",
+        "E",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "roared",
+          "definition": "To make a loud, deep cry, especially from pain, anger, or other strong emotion.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "U",
+        "F",
+        "M",
+        "L",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "armful",
+          "definition": "The amount an arm or arms can hold.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "T",
+        "E",
+        "S",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "arrest",
+          "definition": "A check, stop, an act or instance of arresting something.",
+          "pos": "noun"
+        },
+        {
+          "word": "rarest",
+          "definition": "Very uncommon; scarce.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "P",
+        "L",
+        "L",
+        "P",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "appall",
+          "definition": "To fill with horror; to dismay.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "P",
+        "D",
+        "P",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "append",
+          "definition": "An instance of writing more data to the end of an existing file.",
+          "pos": "noun"
+        },
+        {
+          "word": "napped",
+          "definition": "To have a nap; to sleep for a short period of time, especially during the day.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "G",
+        "A",
+        "T",
+        "I",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "acting",
+          "definition": "To do something.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "S",
+        "A",
+        "B",
+        "R",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "bairns",
+          "definition": "A child or baby.",
+          "pos": "noun"
+        },
+        {
+          "word": "brains",
+          "definition": "The control center of the central nervous system of an animal located in the skull which is responsible for perception, cognition, attention, memory, emotion, and action.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "C",
+        "I",
+        "U",
+        "Q",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "acquit",
+          "definition": "To declare or find innocent or not guilty.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "O",
+        "A",
+        "O",
+        "R",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "arroyo",
+          "definition": "A dry creek or streambed, a gulch which temporarily or seasonally fills and flows (after sufficient rain).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "N",
+        "L",
+        "S",
+        "E",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "angels",
+          "definition": "An incorporeal and sometimes divine messenger from a deity, or other divine entity, often depicted in art as a youthful winged figure in flowing robes.",
+          "pos": "noun"
+        },
+        {
+          "word": "angles",
+          "definition": "A figure formed by two rays which start from a common point (a plane angle) or by three planes that intersect (a solid angle).",
+          "pos": "noun"
+        },
+        {
+          "word": "gleans",
+          "definition": "To collect (grain, grapes, etc.) left behind after the main harvest or gathering.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

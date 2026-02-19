@@ -1,0 +1,186 @@
+{
+  "number": 9,
+  "date": "2026-02-26",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "L",
+        "B",
+        "B",
+        "E",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "babble",
+          "definition": "Idle talk; senseless prattle",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "T",
+        "Y",
+        "A",
+        "I",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "acuity",
+          "definition": "Sharpness or acuteness, as of a needle, wit, etc.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "A",
+        "A",
+        "D",
+        "G",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "agenda",
+          "definition": "A temporally organized plan for matters to be attended to.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "Y",
+        "I",
+        "I",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "airily",
+          "definition": "In an airy manner.",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "B",
+        "E",
+        "B",
+        "D",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "babied",
+          "definition": "Spoiled or coddled.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "N",
+        "E",
+        "T",
+        "S",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "astern",
+          "definition": "Behind a vessel; having a bearing of 180 degrees from ahead.",
+          "pos": "adjective"
+        },
+        {
+          "word": "sterna",
+          "definition": "The breastbone",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "L",
+        "N",
+        "D",
+        "E",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "angled",
+          "definition": "(often in the passive) To place (something) at an angle.",
+          "pos": "verb"
+        },
+        {
+          "word": "dangle",
+          "definition": "An agent of one intelligence agency or group who pretends to be interested in defecting or turning to another intelligence agency or group.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "F",
+        "R",
+        "F",
+        "D",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "afford",
+          "definition": "To incur, stand, or bear without serious detriment, as an act which might under other circumstances be injurious;—with an auxiliary, as can, could, might, etc.; to be able or rich enough.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "D",
+        "Y",
+        "L",
+        "A",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "acidly",
+          "definition": "Sourly; tartly",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "R",
+        "Y",
+        "K",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "bakery",
+          "definition": "A shop in which bread (and often other baked goods such as cakes) is baked and/or sold.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

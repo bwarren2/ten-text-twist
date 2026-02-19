@@ -1,0 +1,196 @@
+{
+  "number": 1,
+  "date": "2026-02-18",
+  "sets": [
+    {
+      "letters": [
+        "O",
+        "A",
+        "I",
+        "G",
+        "A",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "adagio",
+          "definition": "A tempo mark directing that a passage is to be played rather slowly, leisurely and gracefully.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "L",
+        "E",
+        "P",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "asleep",
+          "definition": "In a state of sleep; also, broadly, resting.",
+          "pos": "adjective"
+        },
+        {
+          "word": "elapse",
+          "definition": "(of time) To pass or move by.",
+          "pos": "verb"
+        },
+        {
+          "word": "please",
+          "definition": "To make happy or satisfy; to give pleasure to.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "E",
+        "S",
+        "A",
+        "M",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "armies",
+          "definition": "A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations.",
+          "pos": "noun"
+        },
+        {
+          "word": "ramies",
+          "definition": "(usually countable) A tall, tropical Asian perennial herb, Boehmeria nivea, cultivated for its fibrous stems.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "E",
+        "N",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemia",
+          "definition": "A medical condition in which the capacity of the blood to transport oxygen to the tissues is reduced, either because of too few red blood cells, or because of too little hemoglobin, resulting in pallor and fatigue.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "P",
+        "P",
+        "E",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "applet",
+          "definition": "A small program module that runs under the control of a larger application, typically a web browser",
+          "pos": "noun"
+        },
+        {
+          "word": "lappet",
+          "definition": "A small decorative fold or flap, especially of lace or muslin, in a garment or headdress.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "L",
+        "U",
+        "A",
+        "F",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "artful",
+          "definition": "Cunning; tending toward indirect dealings; crafty.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "U",
+        "N",
+        "T",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "avaunt",
+          "definition": "A vaunt; a boast.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "F",
+        "A",
+        "H",
+        "N",
+        "G",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "afghan",
+          "definition": "A blanket or throw, usually crocheted or knitted.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "U",
+        "A",
+        "O",
+        "V",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "avouch",
+          "definition": "Evidence; declaration",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "U",
+        "A",
+        "T",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "auntie",
+          "definition": "The sister or sister-in-law of one’s parent.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

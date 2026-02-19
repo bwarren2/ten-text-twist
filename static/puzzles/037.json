@@ -1,0 +1,206 @@
+{
+  "number": 37,
+  "date": "2026-03-26",
+  "sets": [
+    {
+      "letters": [
+        "S",
+        "A",
+        "R",
+        "U",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "assure",
+          "definition": "To make sure and secure.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "J",
+        "U",
+        "B",
+        "E",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "abjure",
+          "definition": "To renounce upon oath; to forswear; to disavow.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "I",
+        "A",
+        "E",
+        "N",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "A",
+        "C",
+        "E",
+        "I",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "A",
+        "U",
+        "J",
+        "R",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "adjure",
+          "definition": "To issue a formal command.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "S",
+        "G",
+        "S",
+        "I",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "assign",
+          "definition": "An assignee.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "A",
+        "S",
+        "G",
+        "D",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "badges",
+          "definition": "A distinctive mark, token, sign, emblem or cognizance, worn on one's clothing, as an insignia of some rank, or of the membership of an organization.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "N",
+        "S",
+        "U",
+        "N",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "annuls",
+          "definition": "To formally revoke the validity of.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "A",
+        "E",
+        "M",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "T",
+        "E",
+        "A",
+        "M",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "amulet",
+          "definition": "A kind of protective charm or ornament, often bearing magical symbols, worn for protection against ill will, negative influences or evil spirits.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "number": 6,
+  "date": "2026-02-23",
+  "sets": [
+    {
+      "letters": [
+        "O",
+        "N",
+        "D",
+        "A",
+        "U",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "around",
+          "definition": "(with the verb \"to be\") Present in the vicinity.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "R",
+        "I",
+        "A",
+        "R",
+        "V"
+      ],
+      "answers": [
+        {
+          "word": "arrive",
+          "definition": "To reach; to get to a certain place.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "A",
+        "A",
+        "P",
+        "T",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "apathy",
+          "definition": "Lack of emotion or motivation; lack of interest or enthusiasm towards something; disinterest (in something).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "A",
+        "T",
+        "D",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "adapts",
+          "definition": "To make suitable; to make to correspond; to fit or suit",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "V",
+        "D",
+        "I",
+        "A",
+        "L",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "avidly",
+          "definition": "In an avid manner; greedily; eagerly.",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "A",
+        "L",
+        "S",
+        "T",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "allots",
+          "definition": "To distribute or apportion by (or as if by) lot.",
+          "pos": "verb"
+        },
+        {
+          "word": "atolls",
+          "definition": "A type of island consisting of a ribbon reef that nearly or entirely surrounds a lagoon and supports, in most cases, one to many islets on the reef platform. Atolls have a unique geology, so not all islands with a reef and a lagoon are atolls",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "B",
+        "A",
+        "S",
+        "E",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "abuser",
+          "definition": "One who abuses someone or something.",
+          "pos": "noun"
+        },
+        {
+          "word": "bursae",
+          "definition": "Any of the many small fluid-filled sacs located at the point where a muscle or tendon slides across bone. These sacs serve to reduce friction between the two moving surfaces.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "U",
+        "H",
+        "A",
+        "B",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "ambush",
+          "definition": "The act of concealing oneself and lying in wait to attack by surprise.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "G",
+        "R",
+        "S",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "angers",
+          "definition": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+          "pos": "noun"
+        },
+        {
+          "word": "ranges",
+          "definition": "A line or series of mountains, buildings, etc.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "E",
+        "A",
+        "I",
+        "R",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "aeries",
+          "definition": "A local chapter of the Fraternal Order of Eagles.",
+          "pos": "noun"
+        },
+        {
+          "word": "easier",
+          "definition": "Comfortable; at ease.",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

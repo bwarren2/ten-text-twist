@@ -1,0 +1,191 @@
+{
+  "number": 12,
+  "date": "2026-03-01",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "K",
+        "Y",
+        "S",
+        "D",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "alkyds",
+          "definition": "A synthetic resin derived from a reaction between alcohol and certain acids, used as a base for many laminates, paints and coatings.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "H",
+        "R",
+        "O",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "ashore",
+          "definition": "On the land as opposed to onboard.",
+          "pos": "adverb"
+        },
+        {
+          "word": "hoarse",
+          "definition": "Having a dry, harsh tone to the voice, as a result of a sore throat, age, emotion, etc.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "B",
+        "B",
+        "A",
+        "O",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "balboa",
+          "definition": "The currency of Panama, divided into 100 centésimos",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "A",
+        "F",
+        "A",
+        "R",
+        "F"
+      ],
+      "answers": [
+        {
+          "word": "affair",
+          "definition": "(often in the plural) Something which is done or is to be done; business of any kind, commercial, professional, or public.",
+          "pos": "noun"
+        },
+        {
+          "word": "raffia",
+          "definition": "A fibrous material used for tying plants, originating from the leaves of the raffia palm tree (genus Raphia).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "E",
+        "A",
+        "B",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "ablate",
+          "definition": "To remove or decrease something by cutting, erosion, melting, evaporation, or vaporization.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "E",
+        "N",
+        "D",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "denial",
+          "definition": "The negation in logic.",
+          "pos": "noun"
+        },
+        {
+          "word": "nailed",
+          "definition": "To fix (an object) to another object using a nail.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "B",
+        "A",
+        "U",
+        "C",
+        "K"
+      ],
+      "answers": [
+        {
+          "word": "backup",
+          "definition": "A reserve or substitute.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "S",
+        "A",
+        "U",
+        "G",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "aughts",
+          "definition": "The first decade of a century, such as 1900 to 1909 or 2000 to 2009, whose digit in the tens place is zero; the oughts, the noughties.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "D",
+        "E",
+        "I",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "bailed",
+          "definition": "To secure the release of an arrested person by providing bail.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "S",
+        "E",
+        "A",
+        "V",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "averse",
+          "definition": "To turn away.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

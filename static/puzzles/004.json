@@ -1,0 +1,191 @@
+{
+  "number": 4,
+  "date": "2026-02-21",
+  "sets": [
+    {
+      "letters": [
+        "S",
+        "A",
+        "C",
+        "R",
+        "S",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "across",
+          "definition": "(crosswords, often in combination) A word that runs horizontally in the completed puzzle grid or its associated clue.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "P",
+        "E",
+        "S",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "aspire",
+          "definition": "To have a strong desire or ambition to achieve something.",
+          "pos": "verb"
+        },
+        {
+          "word": "praise",
+          "definition": "Commendation; favourable representation in words",
+          "pos": "noun"
+        },
+        {
+          "word": "spirea",
+          "definition": "Any of many flowering shrubs, of the genus Spiraea, that have clusters of white or pink flowers",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "O",
+        "D",
+        "B",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "aboard",
+          "definition": "On board; into or within a ship or boat; hence, into or within a railway car.",
+          "pos": "adverb"
+        },
+        {
+          "word": "abroad",
+          "definition": "Countries or lands abroad.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "A",
+        "R",
+        "M",
+        "A",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "aromas",
+          "definition": "A smell; especially a pleasant spicy or fragrant one.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "A",
+        "K",
+        "R",
+        "E",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "racked",
+          "definition": "To place in or hang on a rack.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "L",
+        "L",
+        "E",
+        "A",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "allege",
+          "definition": "To state under oath, to plead.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "K",
+        "D",
+        "C",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "backed",
+          "definition": "To go in the reverse direction.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "R",
+        "D",
+        "O",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "ardour",
+          "definition": "Great warmth of feeling; fervor; passion.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "C",
+        "U",
+        "A",
+        "D",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "abduct",
+          "definition": "To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "P",
+        "S",
+        "A",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "appals",
+          "definition": "To fill with horror; to dismay.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

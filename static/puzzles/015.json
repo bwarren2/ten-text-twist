@@ -1,0 +1,186 @@
+{
+  "number": 15,
+  "date": "2026-03-04",
+  "sets": [
+    {
+      "letters": [
+        "E",
+        "G",
+        "A",
+        "S",
+        "B",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "bagels",
+          "definition": "A toroidal bread roll that is boiled before it is baked.",
+          "pos": "noun"
+        },
+        {
+          "word": "gables",
+          "definition": "The triangular area at the peak of an external wall adjacent to, and terminating, two sloped roof surfaces (pitches).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "L",
+        "O",
+        "M",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "almost",
+          "definition": "Something or someone that doesn't quite make it.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "E",
+        "A",
+        "E",
+        "C",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "amerce",
+          "definition": "To impose a fine on; to fine.",
+          "pos": "verb"
+        },
+        {
+          "word": "raceme",
+          "definition": "An indeterminate inflorescence in which the flowers are arranged along a single central axis.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "P",
+        "M",
+        "R",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "ampler",
+          "definition": "Large; great in size, extent, capacity, or bulk; for example spacious, roomy or widely extended.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "N",
+        "I",
+        "A",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "arisen",
+          "definition": "To come up from a lower to a higher position.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "N",
+        "A",
+        "A",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anneal",
+          "definition": "An act of annealing.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "V",
+        "E",
+        "C",
+        "T",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "active",
+          "definition": "A person or thing that is acting or capable of acting.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "A",
+        "A",
+        "I",
+        "G",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "baaing",
+          "definition": "To make the characteristic cry of a sheep.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "L",
+        "D",
+        "L",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "allied",
+          "definition": "Joined as allies.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "H",
+        "M",
+        "S",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "ashram",
+          "definition": "A secluded religious hermitage inhabited by gurus, or the population of such a hermitage.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

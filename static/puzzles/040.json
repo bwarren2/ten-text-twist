@@ -1,0 +1,196 @@
+{
+  "number": 40,
+  "date": "2026-03-29",
+  "sets": [
+    {
+      "letters": [
+        "E",
+        "A",
+        "M",
+        "N",
+        "I",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "T",
+        "A",
+        "D",
+        "O",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "adopts",
+          "definition": "To take by choice into relationship (a child, heir, friend, citizen, etc.)",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "G",
+        "U",
+        "A",
+        "R",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "argued",
+          "definition": "To show grounds for concluding (that); to indicate, imply.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "C",
+        "C",
+        "I",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "acacia",
+          "definition": "A shrub or tree of the tribe Acacieae.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "U",
+        "C",
+        "C",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "accrue",
+          "definition": "Something that accrues; advantage accruing",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "U",
+        "O",
+        "M",
+        "A",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "amount",
+          "definition": "The total, aggregate or sum of material (not applicable to discrete numbers or units or items in standard English).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "I",
+        "E",
+        "A",
+        "M",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "U",
+        "T",
+        "N",
+        "E",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "attune",
+          "definition": "To bring into musical accord.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "I",
+        "A",
+        "C",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "acidic",
+          "definition": "Having a pH less than 7, or being sour, or having the strength to neutralize alkalis, or turning a litmus paper red.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "B",
+        "E",
+        "S",
+        "T",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "abates",
+          "definition": "Abatement.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

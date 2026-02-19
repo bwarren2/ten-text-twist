@@ -1,0 +1,191 @@
+{
+  "number": 20,
+  "date": "2026-03-09",
+  "sets": [
+    {
+      "letters": [
+        "D",
+        "N",
+        "A",
+        "D",
+        "E",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "addend",
+          "definition": "Any one of two or more numbers or other terms that are to be added together.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "S",
+        "A",
+        "U",
+        "R",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "amours",
+          "definition": "Love, affection.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "C",
+        "U",
+        "E",
+        "D",
+        "A",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "adduce",
+          "definition": "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "R",
+        "B",
+        "A",
+        "E",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "marble",
+          "definition": "A rock of crystalline limestone.",
+          "pos": "noun"
+        },
+        {
+          "word": "ramble",
+          "definition": "A leisurely stroll; a recreational walk in the countryside.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "G",
+        "U",
+        "Y",
+        "R",
+        "U",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "augury",
+          "definition": "A divination based on the appearance and behaviour of animals.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "F",
+        "C",
+        "A",
+        "F",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "affect",
+          "definition": "To influence or alter.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "O",
+        "D",
+        "E",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "adored",
+          "definition": "To worship.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "A",
+        "L",
+        "S",
+        "I",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "alibis",
+          "definition": "The plea or mode of defense under which a person on trial for a crime proves or attempts to prove being in another place when the alleged act was committed",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "D",
+        "R",
+        "D",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "adders",
+          "definition": "Any snake.",
+          "pos": "noun"
+        },
+        {
+          "word": "dreads",
+          "definition": "A Rastafarian person.",
+          "pos": "noun"
+        },
+        {
+          "word": "sadder",
+          "definition": "(heading) Emotionally negative.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "I",
+        "Z",
+        "A",
+        "S",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "assize",
+          "definition": "A session or inquiry made before a court or jury.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

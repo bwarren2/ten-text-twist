@@ -1,0 +1,196 @@
+{
+  "number": 2,
+  "date": "2026-02-19",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "I",
+        "T",
+        "G",
+        "L",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "alight",
+          "definition": "(with from) To get off or exit a vehicle or animal; to descend; to dismount.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "A",
+        "L",
+        "E",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "appeal",
+          "definition": "An application for the removal of a cause or suit from an inferior to a superior judge or court for re-examination or review.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "I",
+        "M",
+        "G",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "arming",
+          "definition": "To take by the arm; to take up in one's arms.",
+          "pos": "verb"
+        },
+        {
+          "word": "margin",
+          "definition": "The edge of the paper, typically left blank when printing but sometimes used for annotations etc.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "O",
+        "M",
+        "A",
+        "R",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "amoral",
+          "definition": "(of acts) Neither moral nor immoral.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "D",
+        "E",
+        "S",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "addles",
+          "definition": "(provincial) To earn, earn by labor; earn money or one's living.",
+          "pos": "verb"
+        },
+        {
+          "word": "saddle",
+          "definition": "A seat (tack) for a rider placed on the back of a horse or other animal.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "K",
+        "A",
+        "L",
+        "B",
+        "E",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "balked",
+          "definition": "To pass over or by.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "R",
+        "E",
+        "G",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "agreed",
+          "definition": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "pos": "verb"
+        },
+        {
+          "word": "geared",
+          "definition": "To provide with gearing; to fit with gears in order to achieve a desired gear ratio.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "E",
+        "N",
+        "A",
+        "P",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "aspens",
+          "definition": "The asp tree; a kind of poplar tree (genus Populus sect. Populus). A medium-size tree with thin, straight trunks of a greenish-white color.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "T",
+        "A",
+        "S",
+        "M",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "autism",
+          "definition": "A pervasive neurological disorder that is observable in early childhood and persists throughout the lifespan, characterised by atypical communication, language development, eye contact, and sensory experiences.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "O",
+        "L",
+        "W",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "allows",
+          "definition": "To grant, give, admit, accord, afford, or yield; to let one have.",
+          "pos": "verb"
+        },
+        {
+          "word": "sallow",
+          "definition": "To become sallow.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

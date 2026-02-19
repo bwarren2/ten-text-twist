@@ -1,0 +1,216 @@
+{
+  "number": 18,
+  "date": "2026-03-07",
+  "sets": [
+    {
+      "letters": [
+        "B",
+        "A",
+        "H",
+        "S",
+        "O",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "abhors",
+          "definition": "To regard with horror or detestation; to shrink back with shuddering from; to feel excessive repugnance toward; to detest to extremity; to loathe.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "S",
+        "A",
+        "U",
+        "E",
+        "R",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "argues",
+          "definition": "To show grounds for concluding (that); to indicate, imply.",
+          "pos": "verb"
+        },
+        {
+          "word": "augers",
+          "definition": "A carpenter's tool for boring holes longer than those bored by a gimlet.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "R",
+        "B",
+        "L",
+        "A",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "arable",
+          "definition": "(of land) Able to be plowed or tilled, capable of growing crops (traditionally contrasted with pasturable lands such as heaths).",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "L",
+        "S",
+        "B",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ablest",
+          "definition": "Easy to use.",
+          "pos": "adjective"
+        },
+        {
+          "word": "bleats",
+          "definition": "Of a sheep or goat, to make its characteristic cry; of a human, to mimic this sound.",
+          "pos": "verb"
+        },
+        {
+          "word": "stable",
+          "definition": "A building, wing or dependency set apart and adapted for lodging and feeding (and training) animals with hoofs, especially horses.",
+          "pos": "noun"
+        },
+        {
+          "word": "tables",
+          "definition": "Furniture with a top surface to accommodate a variety of uses.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "I",
+        "C",
+        "L",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "apical",
+          "definition": "A sound produced by obstructing the air passage with the tip of the tongue.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "T",
+        "S",
+        "G",
+        "E",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "agents",
+          "definition": "One who exerts power, or has the power to act",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "A",
+        "D",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "armada",
+          "definition": "A fleet of warships, especially with reference to the Spanish Armada.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "P",
+        "A",
+        "R",
+        "M",
+        "T",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "armpit",
+          "definition": "The cavity beneath the junction of the arm and shoulder.",
+          "pos": "noun"
+        },
+        {
+          "word": "impart",
+          "definition": "To give or bestow (e.g. a quality or property).",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "B",
+        "T",
+        "A",
+        "D",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "abated",
+          "definition": "(obsolete outside law) To put an end to; to cause to cease.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "A",
+        "B",
+        "M",
+        "E",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "ambled",
+          "definition": "To stroll or walk slowly and leisurely.",
+          "pos": "verb"
+        },
+        {
+          "word": "bedlam",
+          "definition": "A place or situation of chaotic uproar, and where confusion prevails.",
+          "pos": "noun"
+        },
+        {
+          "word": "blamed",
+          "definition": "To censure (someone or something); to criticize.",
+          "pos": "verb"
+        },
+        {
+          "word": "lambed",
+          "definition": "Of a sheep, to give birth.",
+          "pos": "verb"
+        }
+      ]
+    }
+  ]
+}

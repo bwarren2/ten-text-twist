@@ -1,0 +1,196 @@
+{
+  "number": 26,
+  "date": "2026-03-15",
+  "sets": [
+    {
+      "letters": [
+        "L",
+        "D",
+        "Y",
+        "A",
+        "L",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "baldly",
+          "definition": "In a bald manner.",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "R",
+        "A",
+        "O",
+        "S",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "ardors",
+          "definition": "Great warmth of feeling; fervor; passion.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "L",
+        "I",
+        "A",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "allies",
+          "definition": "A narrow street or passageway, especially one through the middle of a block giving access to the rear of lots or buildings.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "O",
+        "I",
+        "T",
+        "A",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "aortic",
+          "definition": "Of or pertaining to the aorta or the aortic valve.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "I",
+        "L",
+        "Y",
+        "H"
+      ],
+      "answers": [
+        {
+          "word": "aliyah",
+          "definition": "The calling up of someone to the bimah for the reading of the Torah.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "L",
+        "B",
+        "E",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "baleen",
+          "definition": "The bony material that makes up the plates in the mouth of the baleen whale, Mysticeti, which it uses to trap its food; formerly used in corsetry",
+          "pos": "noun"
+        },
+        {
+          "word": "enable",
+          "definition": "To make somebody able (to do, or to be, something); to give sufficient ability or power to do or to be; to give strength or ability to.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "M",
+        "U",
+        "E",
+        "A",
+        "P"
+      ],
+      "answers": [
+        {
+          "word": "ampule",
+          "definition": "A small hermetically sealed vial, often used to contain a sterile solution suitable for injection.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "B",
+        "R",
+        "D",
+        "E",
+        "G",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "badger",
+          "definition": "Any mammal of three subfamilies, which belong to the family Mustelidae: Melinae (Eurasian badgers), Mellivorinae (ratel or honey badger), and Taxideinae (American badger).",
+          "pos": "noun"
+        },
+        {
+          "word": "barged",
+          "definition": "To intrude or break through, particularly in an unwelcome or clumsy manner.",
+          "pos": "verb"
+        },
+        {
+          "word": "garbed",
+          "definition": "To dress in garb.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "A",
+        "E",
+        "S",
+        "I",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "aisles",
+          "definition": "A wing of a building, notably in a church separated from the nave proper by piers.",
+          "pos": "noun"
+        },
+        {
+          "word": "lassie",
+          "definition": "A young girl, a lass, especially one seen as a sweetheart.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "L",
+        "S",
+        "A",
+        "Y",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "alleys",
+          "definition": "A narrow street or passageway, especially one through the middle of a block giving access to the rear of lots or buildings.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

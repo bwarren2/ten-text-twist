@@ -1,0 +1,206 @@
+{
+  "number": 31,
+  "date": "2026-03-20",
+  "sets": [
+    {
+      "letters": [
+        "I",
+        "T",
+        "N",
+        "A",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "attain",
+          "definition": "To gain (an object or desired result).",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "A",
+        "S",
+        "G",
+        "K",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "asking",
+          "definition": "To request (information, or an answer to a question).",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "D",
+        "V",
+        "S",
+        "I",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "avoids",
+          "definition": "To try not to meet or communicate with (a person); to shun",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "S",
+        "M",
+        "A",
+        "N",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "animus",
+          "definition": "The basic impulses and instincts which govern one's actions.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "E",
+        "I",
+        "C",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "M",
+        "N",
+        "C",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "L",
+        "A",
+        "O",
+        "O",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "abloom",
+          "definition": "Blooming; covered in flowers.",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "S",
+        "A",
+        "B",
+        "N",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "absent",
+          "definition": "(with definite article) Something absent, especially absent people collectively; those who were or are not there.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "E",
+        "T",
+        "T",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "attest",
+          "definition": "To affirm to be correct, true, or genuine.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "E",
+        "N",
+        "A",
+        "C",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

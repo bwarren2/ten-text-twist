@@ -1,0 +1,196 @@
+{
+  "number": 44,
+  "date": "2026-04-02",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "C",
+        "I",
+        "E",
+        "M",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "N",
+        "U",
+        "B",
+        "A",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "auburn",
+          "definition": "A dark reddish-brown colour, often used to describe hair colour.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "A",
+        "E",
+        "C",
+        "B",
+        "J"
+      ],
+      "answers": [
+        {
+          "word": "abject",
+          "definition": "A person in the lowest and most despicable condition; a castaway; outcast.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "L",
+        "A",
+        "R",
+        "H",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "ashlar",
+          "definition": "A large cuboid stone; masonry making use of such stone blocks.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "N",
+        "I",
+        "E",
+        "A",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "anemic",
+          "definition": "An individual who has anemia.",
+          "pos": "noun"
+        },
+        {
+          "word": "cinema",
+          "definition": "A movie theatre, a movie house",
+          "pos": "noun"
+        },
+        {
+          "word": "iceman",
+          "definition": "A person who trades in ice.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "A",
+        "C",
+        "S",
+        "S",
+        "C"
+      ],
+      "answers": [
+        {
+          "word": "access",
+          "definition": "A way or means of approaching or entering; an entrance; a passage.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "S",
+        "I",
+        "U",
+        "B",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "airbus",
+          "definition": "A subsonic jet airliner, especially a wide-bodied one.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "O",
+        "T",
+        "F",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "afloat",
+          "definition": "Floating",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "L",
+        "E",
+        "B",
+        "D",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "bladed",
+          "definition": "To skate on rollerblades.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "W",
+        "S",
+        "L",
+        "A",
+        "Y",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "always",
+          "definition": "At all times; throughout all time; since the beginning.",
+          "pos": "adverb"
+        }
+      ]
+    }
+  ]
+}

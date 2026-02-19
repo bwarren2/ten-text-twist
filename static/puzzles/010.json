@@ -1,0 +1,186 @@
+{
+  "number": 10,
+  "date": "2026-02-27",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "N",
+        "R",
+        "A",
+        "I",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "airman",
+          "definition": "A pilot of an aircraft.",
+          "pos": "noun"
+        },
+        {
+          "word": "marina",
+          "definition": "A harbour for small boats.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "H",
+        "I",
+        "W",
+        "E",
+        "A",
+        "L"
+      ],
+      "answers": [
+        {
+          "word": "awhile",
+          "definition": "For some time; for a short time.",
+          "pos": "adverb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "S",
+        "U",
+        "N",
+        "A",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "anuses",
+          "definition": "The lower orifice of the alimentary canal, through which feces and flatus are ejected.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "E",
+        "S",
+        "S",
+        "R",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "arises",
+          "definition": "To come up from a lower to a higher position.",
+          "pos": "verb"
+        },
+        {
+          "word": "raises",
+          "definition": "An increase in wages or salary; a rise (UK).",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "D",
+        "A",
+        "M",
+        "I",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "admire",
+          "definition": "To be amazed at; to view with surprise; to marvel at.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "R",
+        "L",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "aerial",
+          "definition": "A rod, wire, or other structure for receiving or transmitting radio, television signals etc.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "E",
+        "A",
+        "S",
+        "O",
+        "R"
+      ],
+      "answers": [
+        {
+          "word": "arouse",
+          "definition": "To stimulate feelings.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "U",
+        "J",
+        "A",
+        "T",
+        "S",
+        "D"
+      ],
+      "answers": [
+        {
+          "word": "adjust",
+          "definition": "To modify.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "S",
+        "R",
+        "A",
+        "M",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "alarms",
+          "definition": "A summons to arms, as on the approach of an enemy.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "M",
+        "R",
+        "T",
+        "A",
+        "U",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "atrium",
+          "definition": "A central room or space in ancient Roman homes, open to the sky in the middle; a similar space in other buildings.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}

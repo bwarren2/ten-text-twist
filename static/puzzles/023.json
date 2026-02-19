@@ -1,0 +1,206 @@
+{
+  "number": 23,
+  "date": "2026-03-12",
+  "sets": [
+    {
+      "letters": [
+        "A",
+        "G",
+        "L",
+        "N",
+        "I",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "aligns",
+          "definition": "To form a line; to fall into line.",
+          "pos": "verb"
+        },
+        {
+          "word": "signal",
+          "definition": "A sequence of states representing an encoded message in a communication channel.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "A",
+        "Z",
+        "A",
+        "M",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "amazed",
+          "definition": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "T",
+        "R",
+        "L",
+        "M",
+        "E",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "armlet",
+          "definition": "A band that is worn on the arm that for ornamental or identification purposes.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "N",
+        "M",
+        "A",
+        "A",
+        "I"
+      ],
+      "answers": [
+        {
+          "word": "animal",
+          "definition": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants).",
+          "pos": "noun"
+        },
+        {
+          "word": "lamina",
+          "definition": "A very thin layer of material.",
+          "pos": "noun"
+        },
+        {
+          "word": "manila",
+          "definition": "Fiber made from abaca (Manila hemp), used to make ropes and manila paper.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "A",
+        "S",
+        "S",
+        "S",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "assist",
+          "definition": "A helpful action or an act of giving.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "R",
+        "T",
+        "T",
+        "A",
+        "E"
+      ],
+      "answers": [
+        {
+          "word": "attire",
+          "definition": "(clothing) One's dress; what one wears; one's clothes.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "I",
+        "A",
+        "X",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "ataxia",
+          "definition": "Lack of coordination while performing voluntary movements, which may appear to be clumsiness, inaccuracy, or instability.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "L",
+        "M",
+        "A",
+        "E",
+        "B",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "ambles",
+          "definition": "An unhurried leisurely walk or stroll.",
+          "pos": "noun"
+        },
+        {
+          "word": "blames",
+          "definition": "To censure (someone or something); to criticize.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "I",
+        "S",
+        "T",
+        "C",
+        "N",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "antics",
+          "definition": "A grotesque representation of a figure; a gargoyle.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "R",
+        "T",
+        "E",
+        "V",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "averts",
+          "definition": "To turn aside or away.",
+          "pos": "verb"
+        },
+        {
+          "word": "starve",
+          "definition": "To die; in later use especially to die slowly, waste away.",
+          "pos": "verb"
+        },
+        {
+          "word": "vaster",
+          "definition": "Very large or wide (literally or figuratively).",
+          "pos": "adjective"
+        }
+      ]
+    }
+  ]
+}

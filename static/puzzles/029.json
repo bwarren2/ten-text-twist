@@ -1,0 +1,196 @@
+{
+  "number": 29,
+  "date": "2026-03-18",
+  "sets": [
+    {
+      "letters": [
+        "S",
+        "R",
+        "O",
+        "N",
+        "P",
+        "A"
+      ],
+      "answers": [
+        {
+          "word": "aprons",
+          "definition": "An article of clothing worn over the front of the torso and/or legs for protection from spills; also historically worn by Freemasons and as part of women's fashion.",
+          "pos": "noun"
+        },
+        {
+          "word": "parson",
+          "definition": "An Anglican cleric having full legal control of a parish under ecclesiastical law; a rector.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "N",
+        "I",
+        "G",
+        "E",
+        "A",
+        "G"
+      ],
+      "answers": [
+        {
+          "word": "ageing",
+          "definition": "To cause to grow old; to impart the characteristics of age to.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "E",
+        "L",
+        "I",
+        "T",
+        "B"
+      ],
+      "answers": [
+        {
+          "word": "albeit",
+          "definition": "Although, despite (it) being.",
+          "pos": "conjunction"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "D",
+        "B",
+        "A",
+        "S",
+        "R",
+        "O"
+      ],
+      "answers": [
+        {
+          "word": "adsorb",
+          "definition": "To accumulate on a surface, by adsorption",
+          "pos": "verb"
+        },
+        {
+          "word": "boards",
+          "definition": "A relatively long, wide and thin piece of any material, usually wood or similar, often for use in construction or furniture-making.",
+          "pos": "noun"
+        },
+        {
+          "word": "broads",
+          "definition": "A shallow lake, one of a number of bodies of water in eastern Norfolk and Suffolk.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "A",
+        "B",
+        "O",
+        "R",
+        "U"
+      ],
+      "answers": [
+        {
+          "word": "arbour",
+          "definition": "A shady sitting place, usually in a park or garden, and usually surrounded by climbing shrubs or vines and other vegetation.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "N",
+        "C",
+        "A",
+        "U",
+        "M"
+      ],
+      "answers": [
+        {
+          "word": "acumen",
+          "definition": "Quickness of perception or discernment; penetration of mind; the faculty of nice discrimination.",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "R",
+        "E",
+        "A",
+        "G",
+        "E",
+        "S"
+      ],
+      "answers": [
+        {
+          "word": "agrees",
+          "definition": "To harmonize in opinion, statement, or action; to be in unison or concord; to be or become united or consistent; to concur.",
+          "pos": "verb"
+        },
+        {
+          "word": "grease",
+          "definition": "Animal fat in a melted or soft state",
+          "pos": "noun"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "A",
+        "A",
+        "R",
+        "R",
+        "T",
+        "N"
+      ],
+      "answers": [
+        {
+          "word": "arrant",
+          "definition": "Utter; complete (with a negative sense).",
+          "pos": "adjective"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "E",
+        "I",
+        "B",
+        "D",
+        "A",
+        "T"
+      ],
+      "answers": [
+        {
+          "word": "baited",
+          "definition": "To attract with bait; to entice.",
+          "pos": "verb"
+        }
+      ]
+    },
+    {
+      "letters": [
+        "O",
+        "A",
+        "S",
+        "G",
+        "R",
+        "Y"
+      ],
+      "answers": [
+        {
+          "word": "argosy",
+          "definition": "A merchant ship.",
+          "pos": "noun"
+        }
+      ]
+    }
+  ]
+}
