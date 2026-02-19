@@ -27,7 +27,7 @@ export function generateShareText({ puzzleNumber, sets, timed, elapsedMs }) {
 		line1 += ` ⏱️ ${formatTime(elapsedMs)}`;
 	}
 
-	return `${line1}\n\n${emojiGrid}\n\ntenTextTwist.com`;
+	return `${line1}\n\n${emojiGrid}\n\nbwarren2.github.io/ten-text-twist`;
 }
 
 /**
