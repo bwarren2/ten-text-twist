@@ -29,6 +29,8 @@ function createGameState() {
 
 	// Input state
 	let input = $state([]);
+	/** @type {number[]} indices into displayLetters for each input letter */
+	let inputIndices = $state([]);
 	/** @type {string[]} shuffled display order of current set's letters */
 	let displayLetters = $state([]);
 
@@ -84,6 +86,7 @@ function createGameState() {
 
 	function clearInput() {
 		input = [];
+		inputIndices = [];
 	}
 
 	function saveProgress() {
@@ -160,6 +163,7 @@ function createGameState() {
 		get timeRemaining() { return Math.max(0, TIMED_DURATION - elapsed); },
 		get toastMessage() { return toastMessage; },
 		get inputShaking() { return inputShaking; },
+		get inputIndices() { return inputIndices; },
 
 		get currentSet() {
 			if (!puzzle) return null;
@@ -241,20 +245,25 @@ function createGameState() {
 		},
 
 		/** Add a letter to the input */
-		addLetter(letter) {
+		addLetter(letter, sourceIndex) {
 			if (phase !== 'playing') return;
 			if (input.length >= 6) return;
 			startTimer();
 
-			// Find available letter (not yet used in input)
-			const available = [...displayLetters];
-			for (const used of input) {
-				const idx = available.indexOf(used);
-				if (idx !== -1) available.splice(idx, 1);
-			}
-			if (!available.includes(letter.toUpperCase())) return;
+			const upperLetter = letter.toUpperCase();
+			let chosenIndex;
 
-			input = [...input, letter.toUpperCase()];
+			if (sourceIndex !== undefined && displayLetters[sourceIndex] === upperLetter && !inputIndices.includes(sourceIndex)) {
+				// Tile tap: use the exact tile that was clicked
+				chosenIndex = sourceIndex;
+			} else {
+				// Keyboard input: find first available tile with this letter
+				chosenIndex = displayLetters.findIndex((l, i) => l === upperLetter && !inputIndices.includes(i));
+				if (chosenIndex === -1) return;
+			}
+
+			input = [...input, upperLetter];
+			inputIndices = [...inputIndices, chosenIndex];
 			saveProgress();
 		},
 
@@ -262,12 +271,14 @@ function createGameState() {
 		removeLetter() {
 			if (input.length === 0) return;
 			input = input.slice(0, -1);
+			inputIndices = inputIndices.slice(0, -1);
 		},
 
 		/** Remove letter at specific index */
 		removeLetterAt(index) {
 			if (index < 0 || index >= input.length) return;
 			input = [...input.slice(0, index), ...input.slice(index + 1)];
+			inputIndices = [...inputIndices.slice(0, index), ...inputIndices.slice(index + 1)];
 		},
 
 		/** Submit current input */

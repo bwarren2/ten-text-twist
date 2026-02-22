@@ -11,16 +11,8 @@
 
 	let { onFinish } = $props();
 
-	// Compute which display letter indices are used by the current input
-	const usedIndices = $derived.by(() => {
-		const indices = [];
-		const available = game.displayLetters.map((l, i) => ({ letter: l, index: i }));
-		for (const inputLetter of game.input) {
-			const found = available.find(a => a.letter === inputLetter && !indices.includes(a.index));
-			if (found) indices.push(found.index);
-		}
-		return indices;
-	});
+	// Which display letter indices are used by the current input
+	const usedIndices = $derived(game.inputIndices);
 
 	function handleKeydown(e) {
 		if (game.phase !== 'playing') return;
@@ -46,7 +38,7 @@
 	}
 
 	function handleTileClick(letter, index) {
-		game.addLetter(letter);
+		game.addLetter(letter, index);
 	}
 
 	// Track time on current set for skip tip
